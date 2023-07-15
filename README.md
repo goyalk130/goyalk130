@@ -15,19 +15,10 @@ I am Karan Goyal, a web developer with a passion for creating interactive and dy
 - Node.js
 - MongoDB
 
-## Projects
-
-### Project 1: Website Redesign
-- Description: Redesigned the company website to improve user experience and enhance the overall design.
-- Technologies Used: HTML5, CSS, JavaScript
-
-### Project 2: E-commerce Platform
-- Description: Developed a responsive e-commerce platform with product listing, shopping cart, and secure checkout functionality.
-- Technologies Used: ReactJS, Node.js, MongoDB
 
 ## Education
 
-- Bachelor of Computer Science, XYZ University, Year of Graduation
+- Bachelor of Computer Science, Chitkara University, Year of Graduation 2025
 
 ## Contact
 
