@@ -33,7 +33,7 @@ I am Karan Goyal, a web developer with a passion for creating interactive and dy
 
 - GitHub: [github.com/karangoyal](https://github.com/goyalk130)
 - LinkedIn: [linkedin.com/in/karangoyal](https://www.linkedin.com/in/goyalk130/)
-- Email: [karan@example.com](goyalkaran739@gmail.com)
+- Email: [goyalkaran739@gmail.com](goyalkaran739@gmail.com)
 
 <!---
 goyalk130/goyalk130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
